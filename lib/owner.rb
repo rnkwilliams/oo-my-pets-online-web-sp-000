@@ -8,5 +8,5 @@ class Owner
   end
 
 
-  
+
 end

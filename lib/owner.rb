@@ -6,7 +6,7 @@ class Owner
 
   #Instance Methods
 
-  def initialize(species)
+  def initialize(species = nil)
     @species = species
     @all << self
     @pets = {:fishes => [], :dogs => [], :cats => []}

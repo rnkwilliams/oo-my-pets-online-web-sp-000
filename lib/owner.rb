@@ -40,7 +40,7 @@ class Owner
     end
 
     
-    
+
   end
 
 

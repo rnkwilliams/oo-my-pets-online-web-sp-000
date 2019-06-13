@@ -1,3 +1,7 @@
 class Owner
-  attr_accessor 
+  attr_accessor :pets
+
+  def initialize(species = nil)
+    @species = species
+    @pets = {}
 end

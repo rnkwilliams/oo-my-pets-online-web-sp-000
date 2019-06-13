@@ -4,4 +4,5 @@ class Owner
   def initialize(species = nil)
     @species = species
     @pets = {}
+  end
 end
